@@ -3,30 +3,30 @@
 		id : 1,
 		name : 'Rakkina Hito',
 		profileImage: '#',
-		chat : 'Hey, Hows it going ?'
+		chat : 'Hey, Hows it going ?',
 	},
 	{
 		id : 2,
 		name : 'Habibi',
 		profileImage: '#',
-		chat : 'Lagi ngerancang API'
+		chat : 'Lagi ngerancang API',
 	},
 	{
 		id : 3,
 		name : 'Reza Palupi',
 		profileImage: '#',
-		chat : 'Gw mau berak dulu'
+		chat : 'Gw mau berak dulu',
 	},
 	{
 		id : 4,
 		name : 'Winna Miftahul jannah',
 		profileImage: '#',
-		chat : 'Have a time ?'
+		chat : 'Have a time ?',
 	},
 	{
 		id : 5,
 		name : 'Bella',
 		profileImage: '#',
-		chat : 'Hwaloo ^^'
-	},
+		chat : 'Hwaloo ^^',
+	}
 ]

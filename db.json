@@ -3,7 +3,7 @@
 		"id" : 1,
 		"name" : "Rakkina Hito",
 		"profileImage": "#",
-		"chat" : ""
+		"chat" : "Oi, ngonten dota sama valo yuk."
 	},
 	{
 		"id" : 2,
@@ -28,5 +28,35 @@
 		"name" : "Bella",
 		"profileImage": "#",
 		"chat" : "Hwaloo ^^"
+	},
+	{
+		"id" : 6,
+		"name" : "Fikri",
+		"profileImage": "#",
+		"chat" : "Bang, mau nanya masalah kodingan nih....."
+	},
+	{
+		"id" : 7,
+		"name" : "Mama",
+		"profileImage": "#",
+		"chat" : "Jangan lupa shalat ya sayang...."
+	},
+	{
+		"id" : 8,
+		"name" : "Ayah",
+		"profileImage": "#",
+		"chat" : "Semangat terus, u r our fighter"
+	},
+	{
+		"id" : 9,
+		"name" : "Kakak",
+		"profileImage": "#",
+		"chat" : "Abang....., mau jajan :v"
+	},
+	{
+		"id" : 10,
+		"name" : "Adik",
+		"profileImage": "#",
+		"chat" : "Abang.... adek juga mau jajan.... :D"
 	}
 ]
